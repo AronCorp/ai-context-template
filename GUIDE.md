@@ -30,7 +30,7 @@ Five files plus an inbox folder. Five, because five is what a person will actual
 
 ## 3. Where it lives and how you reach it
 
-- GitHub: a free account (made during setup if they don't have one; section 5, step 3) and one private repository created from this template. A repository is just a folder in the cloud that keeps a history of every change. The repository is named after them: their first name followed by -life-context, all lowercase, for example maria-life-context. You build that name from their first name, say it back to them, and use it once they confirm. Either they created the repository themselves with "Use this template" (a button on the template page on a computer; on a phone it doesn't show, and the direct link https://github.com/new?template_owner=AronCorp&template_name=ai-context-template opens the same form), or you create it for them in the browser during setup (section 5, step 4). Either way the files are already in it. If instead they attached a ZIP and made an empty repository, the files get added during setup. They edit from the GitHub website (open a file, click the pencil, change it, click "Commit changes", which means "save") or from the GitHub phone app. They never install anything.
+- GitHub: a free account (made during setup if they don't have one; section 5, step 2) and one private repository created from this template, made before the interview starts so that every stop has somewhere to save. A repository is just a folder in the cloud that keeps a history of every change. The repository is named after them: their first name followed by -life-context, all lowercase, for example maria-life-context. You build that name from their first name, say it back to them, and use it once they confirm. Either they created the repository themselves with "Use this template" (a button on the template page on a computer; on a phone it doesn't show, and the direct link https://github.com/new?template_owner=AronCorp&template_name=ai-context-template opens the same form), or you create it for them in the browser during setup (section 5, step 3). Either way the files are already in it. If instead they attached a ZIP and made an empty repository, the files get added during setup. They edit from the GitHub website (open a file, click the pencil, change it, click "Commit changes", which means "save") or from the GitHub phone app. They never install anything.
 
 - A ChatGPT Project with the instructions from PROJECT-INSTRUCTIONS.md, connected to the repository, and with the five files uploaded into it when the connection isn't available.
 
@@ -57,7 +57,7 @@ How to ask:
 - Follow up only to clear up something you would otherwise have to guess. Don't dig. In Blocks A and B, never ask "what's going on with that"; that depth belongs to Block C, where each area gets its turn.
 - "Skip" or "I don't know" means skip. Leave it out. Don't fill it in.
 - If an answer includes something from the never-in-the-files list (a password, an ID number, an account number), say so and leave it out.
-- If they tire, stop, and say which question you'll pick up at next time.
+- If they tire, stop. Write where you got to into now.md (section 5) and tell them how to come back.
 
 Block A, for profile.md:
 
@@ -99,23 +99,25 @@ Block D, for now.md and log.md:
 4. Decisions you've made recently that you want on record. One per line with a rough date.
 5. Which day of the week would you reset the list? (That becomes "reset the week" in section 8.)
 
-Then draft now.md and log.md. The first log entry is today: "Set this up." Their recent decisions follow, dated. Show both.
+Then draft now.md (the setup line stays first) and log.md. The first log entry is today: "Set this up." Their recent decisions follow, dated. Show both.
 
 To close the interview, read the five files back to them as a two-minute summary of their life, and ask one question: what's wrong or missing? Fix it. Then the files are done.
 
 ## 5. How to run the setup
 
-Pace: one step per reply, then stop. Confirm each step worked before starting the next. If they get tired, stop and say exactly where to pick up next time. Nothing is homework: every step happens here, with you.
+Pace: one step per reply, then stop. Confirm each step worked before starting the next. Nothing is homework: every step happens here, with you.
 
-1. Say in a few sentences what you're building and why, and ask their first name if you don't have it; it names their repository. Then ask the first question of Block A.
-2. Finish Block A. Draft profile.md. They correct it. Only what they said, nothing guessed.
-3. The GitHub account. Ask whether they have one. If they do, move on. If not: in the browser, open github.com/signup and hand over right away. The sign-up is theirs: their email, a password or "Continue with Google" or Apple, the "I'm not a robot" check, and the code that arrives by email. Say what each screen is asking for as it comes, and wait until they tell you they're in. Never fill in a sign-up form for them.
-4. The repository, in the browser. If they don't have one yet: say the name you'll use (their first name followed by -life-context, all lowercase) and wait for their yes. Then open https://github.com/new?template_owner=AronCorp&template_name=ai-context-template, which is the form behind the template page's "Use this template" button (the button itself only shows on a computer-sized screen), hand over for the GitHub login if it asks, fill in the confirmed name, set it to Private, and ask before you click Create. Then put profile.md in: open the repository, open profile.md, click the pencil, replace its contents with the draft, and ask before you commit. (If they attached a ZIP and made an empty repository instead, add profile.md as a new file.) The alternative is their hands: give them the whole file and name each click. Either way, they open the file on GitHub themselves afterwards and confirm the words are there.
-5. Block B, then people.md, then put it in the repository the same way. Block C, then areas.md, the same way.
-6. Block D, then now.md and log.md, then put both in.
+The repository comes first, before the interview, so that every stop has somewhere to save. Progress lives in now.md, as the first line under "This week": "Finish setting this up. Done: (files). Next: (block and question)." Update that line after each file goes in and whenever they stop. When they get tired: update the line, save it the usual way, and tell them that next time they paste the same message and say the repository already exists. A new chat starts from nothing; the line is how the setup survives the break.
+
+1. Say in a few sentences what you're building and why, and ask their first name if you don't have it; it names their repository. Then ask whether they already have a repository from an earlier sitting. If they do, read now.md in it (in the browser after they log in, or ask them to paste it), check which of the five files are still empty (the files are the truth about progress; the line is the pointer), say back where they got to, and pick up from there.
+2. The GitHub account. Ask whether they have one. If they do, move on. If not: in the browser, open github.com/signup and hand over right away. The sign-up is theirs: their email, a password or "Continue with Google" or Apple, the "I'm not a robot" check, and the code that arrives by email. Say what each screen is asking for as it comes, and wait until they tell you they're in. Never fill in a sign-up form for them.
+3. The repository, in the browser. If they don't have one yet: say the name you'll use (their first name followed by -life-context, all lowercase) and wait for their yes. Then open https://github.com/new?template_owner=AronCorp&template_name=ai-context-template, which is the form behind the template page's "Use this template" button (the button itself only shows on a computer-sized screen), hand over for the GitHub login if it asks, fill in the confirmed name, set it to Private, and ask before you click Create. The five files are now in it, empty, with headings. Then the first save, which is also the proof that saving works: open now.md, click the pencil, make the first line under "This week" read "Finish setting this up. Next: profile, Block A question 1.", and ask before you commit. The alternative is their hands: give them the line and name each click. Either way, they open the file on GitHub themselves afterwards and confirm the words are there. (If they attached a ZIP and made an empty repository instead, each file is added as a new file the first time it is saved.)
+4. Block A. Draft profile.md. They correct it. Only what they said, nothing guessed. Then put it in: open profile.md, click the pencil, replace its contents with the draft, and ask before you commit; or their hands, the whole file with each click named. They confirm it on GitHub. Then update the line in now.md: done profile, next people, Block B question 1.
+5. Block B, then people.md, put in the same way. Block C, then areas.md, the same way. The line in now.md after each.
+6. Block D, then now.md and log.md, then put both in. The setup line stays first under "This week" and counts as one of the five until setup is done.
 7. The ChatGPT Project. They create it themselves with you naming each click (new Project; if the desktop app asks for a type, Cloud is the one), then paste in the block from PROJECT-INSTRUCTIONS.md (the grey box there has a copy button). Then connect GitHub: in ChatGPT's settings, under connectors (also called apps), choose GitHub, approve the authorization on GitHub's side, and give it access to only their life-context repository. You can walk it in the browser or name each step. If the connector isn't offered on their plan, they upload the five files into the Project instead: on the repository page, the green "Code" button, then "Download ZIP", unzip, upload.
 8. Test. Start a new chat inside the Project and have them ask something real. Check that your answer actually used their files. If it didn't, find out why before moving on.
-9. Teach the four phrases in section 8 and the two-chats rule in section 7. Then stop. Setup is done. Don't keep adding.
+9. Teach the four phrases in section 8 and the two-chats rule in section 7. Take the setup line out of now.md; the "Set this up" entry in log.md is the record. Then stop. Setup is done. Don't keep adding.
 
 ## 6. Ground rules (for you, every conversation)
 

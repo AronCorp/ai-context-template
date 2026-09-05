@@ -19,7 +19,7 @@ You need one thing: ChatGPT on the paid plan (Plus). Everything else, including 
 
 1. Open ChatGPT and start a new chat. Two settings: at the top, tap Work (not Chat); at the bottom of the message box, set the model picker to Medium (not Instant).
 2. Open [PROMPT.md](PROMPT.md), tap the copy icon on the grey box, paste it into ChatGPT, and send. Nothing to download, attach, or edit.
-3. Follow along. It reads the guide from this page, asks your first name, interviews you, helps you make a GitHub account if you need one, and creates your own private copy of these files while you watch; you log in and approve. Plan on two or three sittings.
+3. Follow along. It reads the guide from this page, asks your first name, helps you make a GitHub account if you need one, creates your own private copy of these files while you watch (you log in and approve), then interviews you and fills the files in. Plan on two or three sittings; you can stop any time.
 
 If you'd rather set up the repository yourself first: open https://github.com/new?template_owner=AronCorp&template_name=ai-context-template (the form behind this page's "Use this template" button, which only shows on a computer, not on a phone), name it your first name followed by -life-context (for example maria-life-context), choose Private, and tell ChatGPT it already exists. If the links don't open for you, the ZIP route is at the bottom of PROMPT.md.
 
@@ -28,6 +28,7 @@ Why those two settings: Work is the mode that can read pages and use a browser; 
 ## What to expect
 
 - The interview comes in four short rounds, and you get a finished file at the end of each one. Each question says what shape of answer it wants (one per line, a sentence or two). Answer in your own words, ramble if you like; it does the tidying. Say "skip" to any question you don't want to answer.
+- Coming back after a break: it writes where you got to into your own files. Next time, new chat, same two settings, paste the same message, and when it asks, say you already have a repository. It reads where you left off and carries on.
 - When a step needs clicking on a website, ChatGPT opens a browser you can watch. It stops and asks before it saves or submits anything, and hands the browser to you for logins and sign-ups: you type your own email and password, and it never sees them. If it hits an "I'm not a robot" check, that's yours too.
 - GitHub will look intimidating. You only ever use three things on it: open a file, the pencil to edit, and the green "Commit changes" button to save. Everything else you can ignore. If a save ever goes wrong, every file has a "History" button that brings back the previous version.
 - Once setup is done, the four phrases in [COMMANDS.md](COMMANDS.md) are the whole job: "save it", "hand off", "wrap up", "reset the week". New day, new chat, Work at the top, Medium at the bottom.
