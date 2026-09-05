@@ -26,6 +26,8 @@ Five files plus an inbox folder. Five, because five is what a person will actual
 
 - inbox/ (a folder): the handful of things waiting to be folded into the five files. A chat summary, a typed-up voice note, a pasted email. Named by date. It is a tray, not an archive: once something has been folded in, it leaves. A whole conversation worth keeping word for word belongs in the lake (section 9) once they have one; until then it can wait here.
 
+- skills/ (a folder): the step-by-step procedures behind "hand off" and "wrap up", for you. Read the matching file when the phrase is said (section 8).
+
 - README.md and COMMANDS.md: for humans. Leave them as they are.
 
 ## 3. Where it lives and how you reach it
@@ -46,11 +48,12 @@ Five files plus an inbox folder. Five, because five is what a person will actual
 
 ## 4. The interview
 
-This is where the setup works or doesn't. The files are only as good as what they tell you, and they will tell you more in a conversation than in a form. Ask these in order, in four blocks. Each block ends with you drafting one file and showing it to them, so they see something finished every twenty minutes or so.
+This is where the setup works or doesn't. The files are only as good as what they tell you, and they will tell you more in a conversation than in a form. Most people can't answer "what do you want help with?" straight; they can tell you what happened yesterday, who they talked to, and what keeps not getting done. So the questions come at the answers sideways: a short game to get them talking about themselves in pictures, then their days, their week and their people. You say what you think it adds up to, as a question, and write down only what they confirm. Ask in order, in four blocks. Each block ends with you drafting one file and showing it to them, so they see something finished every twenty minutes or so.
 
 How to ask:
 
-- One question per message, then stop and wait. Never stack two questions. If a question has a follow-on, it goes in the next message, after the answer.
+- One question per message, then stop and wait. Never stack two questions. If a question has a follow-on, it goes in the next message, after the answer. A set of either/or pairs counts as one question.
+- Indirect first, then confirm. Ask what happened, not what they want. When you think you can see a priority, a habit or a preference in what they said, say it back as a question ("It sounds like the mornings are the hard part. Right?") and write down only what they confirm, in their words. What they don't confirm is dropped, not softened into the file.
 - Say the shape of the answer you want whenever a question asks for more than one thing: one per line, a sentence each, a name and one line. The questions below already say it; keep it when you rephrase.
 - Say back what you heard in a line or two before the next question, so they can correct it on the spot.
 - Take answers in any form: a ramble, a list, a voice note typed out. You do the tidying.
@@ -59,45 +62,57 @@ How to ask:
 - If an answer includes something from the never-in-the-files list (a password, an ID number, an account number), say so and leave it out.
 - If they tire, stop. Write where you got to into now.md (section 5) and tell them how to come back.
 
+The warm-up, before Block A (five minutes):
+
+A picture game, one picture per message, and say up front that there are no wrong answers. Ask them to imagine a desert, and then, one at a time: a cube somewhere in it (how big, what it's made of, where it sits); a ladder; a horse; flowers; a storm. For each, a line or two on what they see. When all five are in, offer the usual readings one at a time, as questions, not findings: the cube is often read as how you see yourself, the ladder as friends and ambitions, the horse as the person closest to you, the flowers as children or what you're growing, the storm as what you're worried about. "Yours was small and half-buried in the sand. Does 'keeps a low profile' sound like you?" A yes goes into profile.md in their words. A no or a shrug drops it. It's a parlour game, not a test; it's here because it gets people talking about themselves before you ask anything direct, and nothing from it goes in a file unconfirmed.
+
 Block A, for profile.md:
 
-1. What are the three things you most want help with? Just name them, one per line. One or two is fine; if there are more than three, pick.
-2. For each of those, what should I already know so you never have to explain it again? A sentence or two each.
-3. How do you like to be talked to? Short or detailed, straight or gentle, options or one recommendation. Pick one from each pair, or say it your own way.
-4. What has annoyed you about AI answers so far? One or two examples, or "nothing yet".
-5. The basics, a line each: where you live; what you do for work or with your days; how your week is shaped (early or late, weekdays versus weekends, who else is in the house).
-6. Anything about you that should change how advice lands? One per line, or "nothing comes to mind". Examples they can take or leave: I don't drive, I'm a single parent, I have a dog, I work shifts, money is tight this year.
-7. What would make this a good year for you? A sentence or two.
-8. Any words or nicknames you use that I should use too? Names for people or places, "the cabin", "Mum". One per line.
-9. Anything you'd rather I never bring up or assume? One per line, or "nothing".
+1. Walk me through yesterday, from waking up to going to bed. Just what happened, in order, in your own words.
+2. Now a typical weekend day, the same way.
+3. Out of all of that, what would you hand to someone else if you could? One per line.
+4. What's been sitting on your list the longest? What keeps not happening? One per line.
+5. The last time you asked an AI, or searched, for something and gave up on the answer: what went wrong? One or two examples, or "nothing yet".
+
+Say back: "From all that, the three things you'd most want help with look like X, Y and Z. Right, or swap one?" Settle the three. Then, for each one, in its own message: what should I already know about it so you never have to explain it again? A sentence or two.
+
+6. How to talk to you, one from each pair: short or detailed; straight or gentle; options or one recommendation; bad news right away or softened.
+7. How you run, one from each pair, or your own words: when something breaks, fix it yourself or find someone; decide fast and adjust, or sleep on it; when you're stressed, talk it through or be left alone with a plan; spending on something nice, a treat or a worry; in a group, run it or fit in; plans, set in advance or kept loose.
+8. The basics that haven't come up yet, a line each: where you live; what you do for work or with your days; how the week is shaped (early or late, weekdays versus weekends); who else is in the house.
+9. If a friend had to cover for you for a week, what would they need to know? One per line. Examples they can take or leave: I don't drive, I'm a single parent, the dog gets walked at seven, I work shifts, money is tight this year.
+10. It's the end of December and this turned out to be a good year. What happened? A sentence or two.
+11. The words you used for people and places (say them back: "the cabin", "Mum"). Should I use those? Any others?
+12. Anything you'd rather I never bring up or assume? One per line, or "nothing".
 
 Then draft profile.md under the template's headings, under a page, their words tidied and nothing added. Show it. Ask what's wrong.
 
 Block B, for people.md:
 
-1. Who is in your household or immediate family? One line each: name, how you're related, and a few words on what's going on with them right now.
-2. Your closest friends, the ones who come up in an ordinary week. One line each: name and how you know them.
-3. The practical people you deal with regularly: doctor, dentist, landlord, boss, a kid's teacher. One line each.
+1. Who did you talk to or message this week? One line each: name and how you know them. Family, friends, work, whoever.
+2. Who lives with you, or is close family, that didn't come up? One line each: name, how you're related, and a few words on what's going on with them right now.
+3. The practical people: who do you call when something breaks, when you're sick, about the rent or the mortgage, about work, about the kids? One line each.
 4. For anyone above, anything worth remembering? A birthday, what they're into, a sore subject, the best way to reach them. Name, then the note.
-5. Anyone you're worried about, or trying to reconnect with? A name and one line, or "no one".
+5. Anyone you're worried about, or keep meaning to call? A name and one line, or "no one".
 
 Then draft people.md, a short paragraph per person. Show it.
 
 Block C, for areas.md:
 
-1. What are the ongoing parts of your life right now? Offer the menu: home, health, money, work, family, relationship, a project, a trip, learning, pets, car, anything else. They say which apply, one per line.
-2. For each one they picked, one area per message, three short lines: where it stands today; what you've already decided about it; what limits it (a budget, a deadline, someone else's schedule).
-3. Anything big coming in the next six months? One per line with a rough date, or "nothing".
+1. What's been costing you money, time or sleep lately that you didn't plan on? One per line.
+2. Now the menu: home, health, money, work, family, relationship, a project, a trip, learning, pets, car, anything else. Which of these are live parts of your life right now? One per line; add what came up in the last question if it isn't there.
+3. For each one they picked, one area per message, three short lines: where it stands today; what you've already decided about it; what limits it (a budget, a deadline, someone else's schedule).
+4. Anything big coming in the next six months? One per line with a rough date, or "nothing".
 
 Then draft areas.md, one short section per area: current state, decisions, constraints. Show it.
 
 Block D, for now.md and log.md:
 
-1. What are the five things you most want done this week? One per line. If they give more than five, ask them to pick.
-2. What are you waiting on from someone else? One per line: what, from whom, since when.
-3. Ideas or plans you don't want to lose but aren't doing right now. One per line.
-4. Decisions you've made recently that you want on record. One per line with a rough date.
-5. Which day of the week would you reset the list? (That becomes "reset the week" in section 8.)
+1. What has to happen this week, or something goes wrong? One per line.
+2. Anything else you'd like to get to this week if those get done? One per line. Then: the list holds five, so which five? (The setup line from section 5 counts as one until setup is done.)
+3. What are you waiting on from someone else? One per line: what, from whom, since when.
+4. Anything you've said "one day" about lately that you don't want to lose? One per line.
+5. What have you decided, or changed your mind about, in the last month or two? One per line with a rough date.
+6. Which day of the week would you reset the list? (That becomes "reset the week" in section 8.)
 
 Then draft now.md (the setup line stays first) and log.md. The first log entry is today: "Set this up." Their recent decisions follow, dated. Show both.
 
@@ -111,8 +126,8 @@ The repository comes first, before the interview, so that every stop has somewhe
 
 1. Say in a few sentences what you're building and why, and ask their first name if you don't have it; it names their repository. Then ask whether they already have a repository from an earlier sitting. If they do, read now.md in it (in the browser after they log in, or ask them to paste it), check which of the five files are still empty (the files are the truth about progress; the line is the pointer), say back where they got to, and pick up from there.
 2. The GitHub account. Ask whether they have one. If they do, move on. If not: in the browser, open github.com/signup and hand over right away. The sign-up is theirs: their email, a password or "Continue with Google" or Apple, the "I'm not a robot" check, and the code that arrives by email. Say what each screen is asking for as it comes, and wait until they tell you they're in. Never fill in a sign-up form for them.
-3. The repository, in the browser. If they don't have one yet: say the name you'll use (their first name followed by -life-context, all lowercase) and wait for their yes. Then open https://github.com/new?template_owner=AronCorp&template_name=ai-context-template, which is the form behind the template page's "Use this template" button (the button itself only shows on a computer-sized screen), hand over for the GitHub login if it asks, fill in the confirmed name, set it to Private, and ask before you click Create. The five files are now in it, empty, with headings. Then the first save, which is also the proof that saving works: open now.md, click the pencil, make the first line under "This week" read "Finish setting this up. Next: profile, Block A question 1.", and ask before you commit. The alternative is their hands: give them the line and name each click. Either way, they open the file on GitHub themselves afterwards and confirm the words are there. (If they attached a ZIP and made an empty repository instead, each file is added as a new file the first time it is saved.)
-4. Block A. Draft profile.md. They correct it. Only what they said, nothing guessed. Then put it in: open profile.md, click the pencil, replace its contents with the draft, and ask before you commit; or their hands, the whole file with each click named. They confirm it on GitHub. Then update the line in now.md: done profile, next people, Block B question 1.
+3. The repository, in the browser. If they don't have one yet: say the name you'll use (their first name followed by -life-context, all lowercase) and wait for their yes. Then open https://github.com/new?template_owner=AronCorp&template_name=ai-context-template, which is the form behind the template page's "Use this template" button (the button itself only shows on a computer-sized screen), hand over for the GitHub login if it asks, fill in the confirmed name, set it to Private, and ask before you click Create. The five files are now in it, empty, with headings. Then the first save, which is also the proof that saving works: open now.md, click the pencil, make the first line under "This week" read "Finish setting this up. Next: the warm-up, then Block A.", and ask before you commit. The alternative is their hands: give them the line and name each click. Either way, they open the file on GitHub themselves afterwards and confirm the words are there. (If they attached a ZIP and made an empty repository instead, each file is added as a new file the first time it is saved.)
+4. The warm-up, then Block A. Draft profile.md. They correct it. Only what they said, nothing guessed. Then put it in: open profile.md, click the pencil, replace its contents with the draft, and ask before you commit; or their hands, the whole file with each click named. They confirm it on GitHub. Then update the line in now.md: done profile, next people, Block B question 1.
 5. Block B, then people.md, put in the same way. Block C, then areas.md, the same way. The line in now.md after each.
 6. Block D, then now.md and log.md, then put both in. The setup line stays first under "This week" and counts as one of the five until setup is done.
 7. The ChatGPT Project. They create it themselves with you naming each click (new Project; if the desktop app asks for a type, Cloud is the one), then paste in the block from PROJECT-INSTRUCTIONS.md (the grey box there has a copy button). Then connect GitHub: in ChatGPT's settings, under connectors (also called apps), choose GitHub, approve the authorization on GitHub's side, and give it access to only their life-context repository. You can walk it in the browser or name each step. If the connector isn't offered on their plan, they upload the five files into the Project instead: on the repository page, the green "Code" button, then "Download ZIP", unzip, upload.
@@ -173,9 +188,9 @@ Four phrases they say, and a rule for you. The phrases exist to keep chats short
 
 - "save it": one edit, now. Read the current file fresh (section 7), make the change, tell them what changed, then either make the edit in the browser while they watch, asking before the commit, or hand them the whole file with the exact place to paste it.
 
-- "hand off": move to a fresh chat without losing the thread. First, file everything durable from this chat: every updated file, built on the current versions. Then write a continuation note under 150 words that they paste into a new chat in the Project: what we were doing, what is done, what is mid-flight, the exact next step, and any open question. Pointers, not content: the files carry the facts, the note carries the thread. This chat can stay open or go.
+- "hand off": move to a fresh chat without losing the thread. First, file everything durable from this chat: every updated file, built on the current versions. Then write a continuation note under 150 words that they paste into a new chat in the Project: what we were doing, what is done, what is mid-flight, the exact next step, and any open question. Pointers, not content: the files carry the facts, the note carries the thread. This chat can stay open or go. The full procedure is in skills/handoff.md; read it when the phrase is said and follow it in order.
 
-- "wrap up": close this chat for good. File everything durable, exactly as for a hand off. Then, if the conversation itself is worth keeping word for word, give them the full text to put in the lake (section 9) or inbox/. Remind them that anything attached to the chat has to be saved elsewhere first. Then say it is safe to delete. A deleted chat is gone, and there is no getting it back.
+- "wrap up": close this chat for good. File everything durable, exactly as for a hand off. Then, if the conversation itself is worth keeping word for word, give them the full text to put in the lake (section 9) or inbox/. Remind them that anything attached to the chat has to be saved elsewhere first. Then say it is safe to delete. A deleted chat is gone, and there is no getting it back. The full procedure is in skills/wrap.md; read it when the phrase is said and follow it in order.
 
 - "reset the week": the weekly habit, on the day they picked in the interview. Open now.md, move finished things to log.md, re-check every "waiting on" (is it still true?), help them pick the five for the week, park the rest.
 
@@ -187,7 +202,7 @@ Four phrases they say, and a rule for you. The phrases exist to keep chats short
 
 - Why a separate repository: it is never connected to ChatGPT. The five files stay small and current, and the lake can grow for years without old material leaking into answers. It also keeps inbox/ honest: a tray for the few things waiting to be folded in, not an archive.
 
-- When to add it: the first time they want to keep a whole conversation, not before. They create it the same way as the first repository, empty. Until then, a transcript worth keeping can sit in inbox/ and move later.
+- When to add it: the first time they want to keep a whole conversation, not before. They create it the same way as the first repository, empty. The wrap-up procedure (skills/wrap.md) offers it at that moment. Until then, a transcript worth keeping can sit in inbox/ and move later.
 
 - Naming: chats/YYYY-MM-DD-subject.md, notes/YYYY-MM-DD-subject.md, mail/YYYY-MM-DD-subject.md. The date is what they will search by.
 

@@ -11,3 +11,5 @@ Say these to ChatGPT inside your Project. They keep chats short, which keeps ans
 - "reset the week": your weekly five. It moves finished things into the log, checks what you're waiting on, and helps you pick the next five.
 
 Rule of thumb: new day, new chat. Every chat starts by reading your files, so nothing is lost by starting fresh, and ChatGPT will suggest a hand off itself when a chat is getting long.
+
+The step-by-step versions of "hand off" and "wrap up" are in the skills folder; ChatGPT reads them when you say the phrase. You don't need to.

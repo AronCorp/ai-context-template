@@ -12,6 +12,7 @@ You don't fill the files in yourself. The assistant interviews you and fills the
 - [COMMANDS.md](COMMANDS.md): the four phrases you'll use day to day, on one page.
 - profile.md, people.md, areas.md, now.md, log.md: the five files, empty, with headings.
 - inbox/: a folder for raw material waiting to be folded into the five files.
+- skills/: the step-by-step procedures behind "hand off" and "wrap up", for the assistant.
 
 ## How to start (phone or computer)
 
@@ -27,6 +28,7 @@ Why those two settings: Work is the mode that can read pages and use a browser; 
 
 ## What to expect
 
+- It opens with a five-minute picture game, then asks about your days and your people rather than your goals; most of us describe our days well and our goals badly. It tells you what it thinks that adds up to, and you correct it.
 - The interview comes in four short rounds, and you get a finished file at the end of each one. Each question says what shape of answer it wants (one per line, a sentence or two). Answer in your own words, ramble if you like; it does the tidying. Say "skip" to any question you don't want to answer.
 - Coming back after a break: it writes where you got to into your own files. Next time, new chat, same two settings, paste the same message, and when it asks, say you already have a repository. It reads where you left off and carries on.
 - When a step needs clicking on a website, ChatGPT opens a browser you can watch. It stops and asks before it saves or submits anything, and hands the browser to you for logins and sign-ups: you type your own email and password, and it never sees them. If it hits an "I'm not a robot" check, that's yours too.
