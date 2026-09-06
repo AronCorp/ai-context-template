@@ -35,7 +35,7 @@ Why those two settings: Work is the mode that can read pages and use a browser; 
 - GitHub will look intimidating. You only ever use three things on it: open a file, the pencil to edit, and the green "Commit changes" button to save. Everything else you can ignore. If a save ever goes wrong, every file has a "History" button that brings back the previous version.
 - Once setup is done, the four phrases in [COMMANDS.md](COMMANDS.md) are the whole job: "save it", "hand off", "wrap up", "reset the week". New day, new chat, Work at the top, Medium at the bottom.
 - If you have two chats going at once, let one finish saving before the other one saves. Two chats writing the same file at the same time will overwrite each other.
-- Later, if you want to keep whole conversations word for word, the guide describes an optional second repository as your archive. Not needed to start.
+- While you're on GitHub, it asks whether you want to keep whole conversations word for word. Say yes and it makes a second private folder for them at the same time, your archive; say no and you can add it later.
 - The moment you'll feel it working: a few weeks in, when you ask something ordinary and the answer already accounts for your situation without you explaining it again.
 
 ## Other assistants
