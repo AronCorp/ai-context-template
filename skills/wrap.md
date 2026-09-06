@@ -14,4 +14,4 @@ Goal: this chat can be deleted with nothing lost. What matters goes into the fil
 
 6. Say it's safe. A short checklist: which files changed, every attachment and where it went, the transcript's name and where it is, and the line "Safe to delete." If anything couldn't be placed, say which, and don't say safe.
 
-Two things that go wrong. A wrapped chat keeps going: if it does, sweep again and add to the transcript before it's deleted; "filed" is not "finished". And "saved" that wasn't: never say a file is saved unless the save worked and they've seen it on GitHub.
+Two things that go wrong. A wrapped chat keeps going: if it does, sweep again and add to the transcript before it's deleted; "filed" is not "finished". And "saved" that wasn't: never say a file is saved unless the save worked and you've read it back from GitHub.
