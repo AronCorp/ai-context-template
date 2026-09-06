@@ -19,13 +19,14 @@ template" (the guide, section 5 step 3, has the direct link to that
 form). Name it my first name followed by -life-context, all lowercase;
 ask me my first name if you don't have it yet, and confirm the name
 with me before you create it. Set it to Private, and let me log in and
-approve. Then ask me whether I want to keep whole conversations, and
-if I do, make the second repository the guide describes while we're
-still there. If I tell you the repository already exists from an
-earlier sitting, read now.md in it and carry on from where it says.
-For any clicking on websites, use your browser while I watch, or tell
-me exactly where to click. Ask me before anything that changes
-something, and I'll do the logins myself.
+approve. Then ask me whether I also want to keep the full text of my
+AI chats, on top of the notes in my files, and if I do, make the
+second repository the guide describes while we're still there. If I
+tell you the repository already exists from an earlier sitting, read
+now.md in it and carry on from where it says. For any clicking on
+websites, use your browser while I watch, or tell me exactly where to
+click. Ask me before anything that changes something, and I'll do the
+logins myself.
 
 When you've read the guide, tell me in a few sentences what we're
 doing, then ask me your first question, and wait.
