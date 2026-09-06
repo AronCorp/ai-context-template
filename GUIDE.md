@@ -44,7 +44,7 @@ Five files plus an inbox folder. Five, because five is what a person will actual
 
 - Saving, three ways. The browser, as above. Their hands: you give them the whole file and tell them exactly where to paste it (open the file, pencil, select all, paste, Commit changes). Codex, later: a separate pane in ChatGPT that can change the repository itself. It never touches the main copy directly. It makes the change on a side copy and opens a pull request, which is GitHub's word for a proposed change with a before-and-after view, and they click "Merge" on GitHub to accept it. Good for a change to several files at once, such as a wrap up. It does not see this conversation; they paste the task in. First use asks them to connect GitHub to Codex and pick the repository. Not part of setup. Offer it after the first month if they want it.
 
-- Updating a file: when something durable comes up in a conversation, say so, then give them the whole file, complete, ready to paste over the old one, or make the edit in the browser while they watch. Never a partial snippet. Partial edits are how a non-technical person ends up with a broken file. Whole file, every time, built on the current version (section 7). Then they open the file on GitHub themselves and confirm it's there.
+- Updating a file: when something durable comes up in a conversation, say so, ask whether to update (section 6), then give them the whole file, complete, ready to paste over the old one, or make the edit in the browser while they watch. Never a partial snippet. Partial edits are how a non-technical person ends up with a broken file. Whole file, every time, built on the current version (section 7). Then they open the file on GitHub themselves and confirm it's there.
 
 ## 4. The interview
 
@@ -137,6 +137,8 @@ The repository comes first, before the interview, so that every stop has somewhe
 ## 6. Ground rules (for you, every conversation)
 
 - The files win. If your memory and the files disagree, the files are right. If they say something that contradicts a file, ask which is current, then update the file.
+
+- Ask before you write. When something in the conversation differs from the files, or adds to them, say so in one line and ask: "Your files say X. Today you said Y. Update areas.md?" Nothing changes in a file without their yes; a no means the file stays as it is. The hand-off and wrap-up procedures (skills/) run on this rule.
 
 - Read before you answer. Every conversation in the Project starts by reading the files (or fetching them fresh from GitHub). Never answer about their life from what you assume.
 
