@@ -1,6 +1,8 @@
 # The message to paste into ChatGPT
 
-Open a new chat. At the top, tap Work (not Chat). At the bottom of the message box, set the model picker to Medium (not Instant). Copy the whole message in the grey box below (tap the copy icon in its top corner; if you don't see one, press and hold the text, choose Select All, then Copy), paste it into ChatGPT, and send. There is nothing to attach, nothing to edit, and nothing to set up first. Coming back after a break: paste the same message again, and when it asks, say you already have a repository.
+If someone sent you straight to this page, you're in the right place. What it's all for, and what to expect, is on the [README](README.md) page; read it before or after, as you like.
+
+Copy the whole message in the grey box below: tap the copy icon in its top corner; if you don't see one, press and hold the text, choose Select All, then Copy. Then open ChatGPT and start a new chat. At the top, tap Work (not Chat). At the bottom of the message box, set the model picker to Medium (not Instant). Paste the message and send. There is nothing to attach, nothing to edit, and nothing to set up first. Coming back after a break: come back to this page, copy the message again, paste it into a new chat with the same two settings, and when it asks, say you already have a repository.
 
 ```text
 Read all of the guide at
