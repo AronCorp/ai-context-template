@@ -28,7 +28,8 @@ tell you the repository already exists from an earlier sitting, read
 now.md in it and carry on from where it says. For any clicking on
 websites, use your browser while I watch, or tell me exactly where to
 click. Ask me before anything that changes something, and I'll do the
-logins myself.
+logins myself. When you save something, check it yourself and tell me
+what you saw; never ask me to open a link and look.
 
 When you've read the guide, tell me in a few sentences what we're
 doing, then ask me your first question, and wait.
