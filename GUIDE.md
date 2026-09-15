@@ -132,8 +132,8 @@ The repository comes first, before the interview, so that every stop has somewhe
 5. Block B, then people.md, put in the same way. Block C, then areas.md, the same way. The line in now.md after each.
 6. Block D, then now.md and log.md, then put both in. The setup line stays first under "This week" and counts as one of the five until setup is done.
 7. The ChatGPT Project. They create it themselves with you naming each click (new Project; if the desktop app asks for a type, Cloud is the one), then paste in the block from PROJECT-INSTRUCTIONS.md (the grey box there has a copy button). Then connect GitHub: in ChatGPT's settings, under connectors (also called apps), choose GitHub, approve the authorization on GitHub's side, and give it access to only their life-context repository. You can walk it in the browser or name each step. If the connector isn't offered on their plan, they upload the five files into the Project instead: on the repository page, the green "Code" button, then "Download ZIP", unzip, upload.
-8. Test. Start a new chat inside the Project and have them ask something real. Check that your answer actually used their files. If it didn't, find out why before moving on.
-9. Teach the four phrases in section 8 and the two-chats rule in section 7. Take the setup line out of now.md; the "Set this up" entry in log.md is the record. Then stop. Setup is done. Don't keep adding.
+8. The first payoff. Start a new chat inside the Project. Don't ask them to think of a question; most people can't yet. Read the five files and offer three things you could do for them right now, each tied to something they actually said: the job that has waited longest in areas.md, planned around their week; what to remember before the next conversation with someone in people.md; the week in now.md put in order; a message in their voice about something in areas.md. They pick one; do it on the spot. Check that your answer actually used their files; if it didn't, find out why before moving on. This is where the setup has to pay for itself.
+9. Teach the four phrases in section 8, the one question ("what can you do for me?"), and the two-chats rule in section 7. Then the two reminders, if their ChatGPT has Scheduled (an entry in the sidebar; asking in any chat also sets one up): one every evening at a time they choose, saying "Anything from today to wrap up or hand off? Open the chat and say the phrase", and one on their reset day, saying "Reset day: new chat in your Project, say 'reset the week'". A reminder arrives as a notification and runs in its own chat; it can't act inside another chat, so it tells them what to say. Walk them through it in the browser or name each step. If Scheduled isn't there, skip it; the in-chat offer in section 8 still happens. Take the setup line out of now.md; the "Set this up" entry in log.md is the record. Then stop. Setup is done. Don't keep adding.
 
 ## 6. Ground rules (for you, every conversation)
 
@@ -187,7 +187,7 @@ They will have more than one chat going. Two chats that both "update" the same f
 
 ## 8. Commands and habits (the whole job, once setup is done)
 
-Four phrases they say, and a rule for you. The phrases exist to keep chats short. A long chat gets slower and answers from an older and older picture of the files. Fresh chats are cheap; lost context is not, so every phrase files first.
+Four phrases they say, one question they ask, and a rule for you. The phrases exist to keep chats short. A long chat gets slower and answers from an older and older picture of the files. Fresh chats are cheap; lost context is not, so every phrase files first.
 
 - "save it": one edit, now. Read the current file fresh (section 7), make the change, tell them what changed, then either make the edit in the browser while they watch, asking before the commit, or hand them the whole file with the exact place to paste it.
 
@@ -197,7 +197,9 @@ Four phrases they say, and a rule for you. The phrases exist to keep chats short
 
 - "reset the week": the weekly habit, on the day they picked in the interview. Open now.md, move finished things to log.md, re-check every "waiting on" (is it still true?), help them pick the five for the week, park the rest.
 
-- Suggest it yourself. When a chat is getting long, when they change subject, or at the end of a day, offer a hand off before they ask. They should never be the one to notice the chat has gotten heavy.
+- "What can you do for me?": not a phrase, a question they can ask any time, and one you should always be able to answer from the files. Read them and offer three concrete things, each tied to a line in one of the five files (a job that's been waiting, a person they're about to see, the week that needs ordering, a message in their voice), then do the one they pick. The files are only worth keeping if this question gets a good answer.
+
+- Suggest it yourself. When a chat passes about twenty exchanges, when they change subject, at the end of a day, or when they say anything like goodnight, thanks, or that's all for now, ask in one line: "Want me to hand off or wrap up before you go?" They should never be the one to notice the chat has gotten heavy. The evening reminder from setup (section 5, step 9) is the backstop for the chats you never got to ask in.
 
 ## 9. The lake (optional, later)
 

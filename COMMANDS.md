@@ -1,4 +1,4 @@
-# Four phrases
+# Four phrases, one question
 
 Say these to ChatGPT inside your Project. They keep chats short, which keeps answers current and quick. Two settings for every chat that touches your files: Work at the top, Medium in the model picker at the bottom. Instant is for quick questions only; it follows the rules loosely. If a file rewrite ever comes back sloppy, switch to High for that one step.
 
@@ -10,6 +10,8 @@ Say these to ChatGPT inside your Project. They keep chats short, which keeps ans
 
 - "reset the week": your weekly five. It moves finished things into the log, checks what you're waiting on, and helps you pick the next five.
 
-Rule of thumb: new day, new chat. Every chat starts by reading your files, so nothing is lost by starting fresh, and ChatGPT will suggest a hand off itself when a chat is getting long.
+- "what can you do for me?": the one question. Ask it any time, especially when you don't know what to ask. It reads your files and offers three things it could do right now, each drawn from something you told it. Pick one.
+
+Rule of thumb: new day, new chat. Every chat starts by reading your files, so nothing is lost by starting fresh, and ChatGPT will ask itself whether to hand off or wrap up when a chat is getting long or when you say you're done for now. If you set up the evening reminder at the end of setup, it also pings you once a day to ask.
 
 The step-by-step versions of "hand off" and "wrap up" are in the skills folder; ChatGPT reads them when you say the phrase. You don't need to.

@@ -25,10 +25,23 @@ Why those two settings: Work is the mode that can read pages and use a browser; 
 - Coming back after a break: it writes where you got to into your own files. If the same chat is still open on your phone, just carry on in it. Otherwise, open PROMPT.md again (the same link that brought you here), copy the box, start a new chat with the same two settings, paste, and when it asks, say you already have a repository. It reads where you left off and carries on. It's the same chat on your phone and your computer; if it hasn't appeared on the other one yet, close and reopen the app.
 - When a step needs clicking on a website, ChatGPT opens a browser you can watch. It stops and asks before it saves or submits anything, and hands the browser to you for logins and sign-ups: you type your own email and password, and it never sees them. GitHub also checks it's you when you log in: a code by email, a code from an authenticator app, or, if you have the GitHub app on your phone, a notification asking for a two-digit number that ChatGPT tells you. That's normal, not a problem. If it hits an "I'm not a robot" check, that's yours too.
 - You don't have to open GitHub yourself. ChatGPT makes each change in a browser you can watch, then reads the file back and tells you what it saved. The files are yours to look at any time, and if a save ever goes wrong, every file has a "History" button that brings back the previous version; ChatGPT can do that for you too.
-- Once setup is done, the four phrases in [COMMANDS.md](COMMANDS.md) are the whole job: "save it", "hand off", "wrap up", "reset the week". New day, new chat, Work at the top, Medium at the bottom.
+- Once setup is done, the four phrases in [COMMANDS.md](COMMANDS.md) are the whole job: "save it", "hand off", "wrap up", "reset the week". One question, "what can you do for me?", is where the payoff comes from. New day, new chat, Work at the top, Medium at the bottom.
 - If you have two chats going at once, let one finish saving before the other one saves. Two chats writing the same file at the same time will overwrite each other.
 - While you're on GitHub, it asks whether, on top of the notes it keeps in your files, you also want to keep the full text of your AI chats. Say yes and it makes a second private folder for them at the same time, your archive; say no and you can add it later.
 - The moment you'll feel it working: a few weeks in, when you ask something ordinary and the answer already accounts for your situation without you explaining it again.
+
+## What you do with it
+
+The files pay off in ordinary questions, once the answers already know your situation. Some that work from the first week:
+
+- "What's on this week?" It reads your list, lays the week out, and asks what to drop.
+- "I'm seeing (name) tomorrow. What should I remember?" It knows who they are to you and what's going on with them.
+- "That repair has been waiting for months. Plan it around my weekends." It knows your weekends and what limits the job.
+- "Write to (the landlord, the school, a client) about (the thing). You know the history." A message in your voice, with the facts right.
+- "I'm weighing (a choice). Give me the options." Laid out the way you asked to be talked to.
+- Something changed? Say it. It asks whether to update the file, and next time the change is already known.
+
+When you don't know what to ask, ask "what can you do for me?" It reads your files and offers three things it could do right now, each drawn from something you told it; pick one. At the end of setup it also offers two reminders, if your ChatGPT has them: one in the evening asking whether anything from today needs wrapping up or handing off, and one on your reset day.
 
 ## What's inside
 

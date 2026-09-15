@@ -30,7 +30,9 @@ want to keep it, remind me to save any attachments, and tell me it's
 safe to delete. For "hand off" and "wrap up", read skills/handoff.md and
 skills/wrap.md in my repository first and follow them step by step.
 "reset the week": walk me through now.md: move finished things to the
-log, check each thing I'm waiting on, help me pick the next five. If
-this chat is getting long, or we've changed subject, suggest a hand off
-before I ask.
+log, check each thing I'm waiting on, help me pick the next five. If I
+ask what you can do for me, or I seem stuck, read my files and offer
+three concrete things drawn from them, then do the one I pick. If this
+chat is getting long, we've changed subject, or I say I'm done for now,
+ask in one line whether to hand off or wrap up.
 ```
