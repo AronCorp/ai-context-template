@@ -15,8 +15,8 @@ whether you are ChatGPT or Claude.
 I'm not technical, so go slowly: one step at a time, in everyday words,
 and wait for me after each step. I'm on the paid plan. Start with
 GitHub: ask me whether I have an account; if I don't, walk me through
-making a free one and let me do the sign-up myself. Then make my private
-repository from the template at
+making a free one and let me do the sign-up myself. Then get my private
+repository set up from the template at
 https://github.com/AronCorp/ai-context-template the way the guide says
 for your platform. Name it my first name followed by -life-context, all
 lowercase; ask me my first name if you don't have it yet, and confirm
